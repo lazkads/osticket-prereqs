@@ -35,7 +35,7 @@ Create an Azure Virtual Machine.  Log into the virtual machine with remote deskt
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/a/Je8UU7X" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Use the files in this folder to install osTicket and some of the dependencies.  
