@@ -27,7 +27,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/JwTKMzb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Create an Azure Virtual Machine.  Log into the virtual machine with remote desktop.  Download the Osticket-installation files zip and unzip onto your desktop.
